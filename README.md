@@ -13,20 +13,31 @@
 </div>
 
 ---
+# 🌸 ABOUT ME
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=2500&pause=800&color=BB9AF7&center=true&vCenter=true&width=700&lines=Frontend+Developer;Creative+UI%2FUX+Explorer;Building+Modern+Digital+Experiences;Always+Learning+New+Things+🚀" />
+
+<br/>
+
+<table>
+<tr>
+<td>
+
+```yaml
+Name: Quốc Khánh
+Role: Frontend Developer
+Focus: UI/UX • Fullstack • Creative Coding
+Location: Vietnam 🇻🇳
+Status: Building cool things 🚀
+```
+
+</td>
+</tr>
+</table>
+
 <div align="center">
-# 🎮 ABOUT ME
-
-Passionate about crafting clean, responsive, and user-focused digital experiences.
-
-Currently exploring modern frontend technologies, fullstack systems, and minimalist UI/UX design.
-
-</div>
 
 ---
-
-
-<div align="center">
-
 # ⚔️ SKILL INVENTORY
 
 ## 🎨 Frontend
