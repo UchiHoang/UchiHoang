@@ -14,34 +14,14 @@
 
 ---
 
-# 🧠 About Me
+# 💫 About Me
 
-```yaml
-name: Quốc Khánh
-located_in: Vietnam 🇻🇳
-
-current_focus:
-  - Frontend Development
-  - UI/UX Design
-  - Fullstack Web Applications
-
-learning:
-  - Next.js
-  - System Design
-  - Backend Architecture
-  - Advanced TypeScript
-
-tech_interests:
-  - Modern Web UI
-  - Interactive Design
-  - Performance Optimization
-  - Animation & UX
-
-hobbies:
-  - Coding
-  - Gaming
-  - Designing
-  - Late night debugging ☕
+```javascript
+const khanh = {
+  role: "Frontend Developer",
+  learning: ["Next.js", "TypeScript", "Backend"],
+  passions: ["UI/UX", "Modern Web", "Creative Coding"],
+};
 ```
 
 ---
@@ -64,19 +44,19 @@ hobbies:
 
 ## ☁️ Cloud & Tools
 
-<img src="https://skillicons.dev/icons?i=vercel,render,github,git,vscode,figma,postman" />
+<img src="https://skillicons.dev/icons?i=github,git,vscode,figma,postman,vercel,render" />
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=UchiHoang&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=UchiHoang&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UchiHoang&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UchiHoang&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -86,21 +66,17 @@ hobbies:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=UchiHoang&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img src="https://streak-stats.demolab.com?user=UchiHoang&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+# 🐍 Contribution Snake
 
 <div align="center">
 
-| Project | Description | Tech |
-|---|---|---|
-| 🌏 Vietnamese Folktale Learning | Interactive learning platform for Vietnamese culture | React, Tailwind, Supabase |
-| 📚 Edu Odyssey | Modern online education platform | Next.js, TypeScript |
-| 🎮 Pixel Portfolio | Retro-style animated developer portfolio | React, Framer Motion |
+<img src="https://raw.githubusercontent.com/UchiHoang/UchiHoang/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -126,23 +102,7 @@ hobbies:
 
 ---
 
-# 🐍 Contribution Snake
-
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/UchiHoang/UchiHoang/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-<div align="center">
-
-## 💡 Dev Quote
-
-> "First, solve the problem. Then, write the code."
-
-<br/>
 
 <img src="https://komarev.com/ghpvc/?username=UchiHoang&label=Profile+Views&color=38BDF8&style=for-the-badge" />
 
