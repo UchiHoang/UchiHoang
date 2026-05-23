@@ -13,8 +13,8 @@
 </div>
 
 ---
-
-# 🎮 PLAYER INFO
+<div align="center">
+# 🎮 ABOUT ME
 
 Passionate about crafting clean, responsive, and user-focused digital experiences.
 
