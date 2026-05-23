@@ -13,29 +13,36 @@
 </div>
 
 ---
-# 🌸 ABOUT ME
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=2500&pause=800&color=BB9AF7&center=true&vCenter=true&width=700&lines=Frontend+Developer;Creative+UI%2FUX+Explorer;Building+Modern+Digital+Experiences;Always+Learning+New+Things+🚀" />
+# 🎮 PLAYER INFO
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-7AA2F7?style=for-the-badge"/>
+
+</div>
 
 <br/>
 
-<table>
-<tr>
-<td>
+<div align="center">
 
-```yaml
-Name: Quốc Khánh
-Role: Frontend Developer
-Focus: UI/UX • Fullstack • Creative Coding
-Location: Vietnam 🇻🇳
-Status: Building cool things 🚀
-```
+| 🎴 Profile | 🎯 Details |
+|---|---|
+| **Name** | Quốc Khánh |
+| **Class** | Frontend Developer |
+| **Speciality** | UI/UX • Creative Coding |
+| **Level** | Fullstack Learner |
+| **Location** | Vietnam 🇻🇳 |
+| **Status** | Building cool things 🚀 |
 
-</td>
-</tr>
-</table>
+</div>
+
+<br/>
 
 <div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=2500&pause=800&color=7AA2F7&center=true&vCenter=true&width=800&lines=Exploring+Modern+Frontend...;Designing+Interactive+Experiences...;Leveling+Up+Everyday+⚡" />
+
+</div>
 
 ---
 # ⚔️ SKILL INVENTORY
