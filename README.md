@@ -1,16 +1,14 @@
 <div align="center">
 
-# Quốc Khánh
-
-### Frontend Developer • Data Analyst • UI/UX Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1a1b27,50:24283b,100:414868&text=QUỐC%20KHÁNH&fontSize=50&fontColor=c0caf5&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20•%20Data%20Analyst%20•%20UI/UX%20Enthusiast&descAlignY=58&descSize=18" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=22&duration=3500&pause=1200&color=8E8E93&center=true&vCenter=true&width=600&lines=Building+clean+and+modern+experiences.;Passionate+about+Frontend+Development.;Minimal+Design+•+Creative+Thinking." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&lines=Loading+Developer+Profile...;Frontend+Developer+Detected.;Initializing+Creative+Mode...;Welcome+to+my+Pixel+World+🎮" />
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="100%" />
 
 </div>
 
@@ -18,23 +16,16 @@
 
 <div align="center">
 
-## About Me
+# 🎮 PLAYER INFO
 
-Passionate about crafting clean, responsive, and user-focused digital experiences.
-
-Currently exploring modern frontend technologies, fullstack systems, and minimalist UI/UX design.
-
-</div>
-
----
-
-<div align="center">
-
-## Tech Stack
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,mongodb,figma,git,github&theme=light" />
+```txt
+Name       : Quốc Khánh
+Class      : Frontend Developer
+Level      : Fullstack Learner
+Speciality : UI/UX + Creative Coding
+Location   : Vietnam 🇻🇳
+Status     : Building cool things 🚀
+```
 
 </div>
 
@@ -42,25 +33,23 @@ Currently exploring modern frontend technologies, fullstack systems, and minimal
 
 <div align="center">
 
-## GitHub Stats
+# ⚔️ SKILL INVENTORY
 
-<br/>
+## 🎨 Frontend
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=UchiHoang&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=111111&text_color=555555&icon_color=111111"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,vite&theme=dark" />
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=UchiHoang&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=111111&text_color=555555"/>
+<br/><br/>
 
-</div>
+## ⚙️ Backend
 
----
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,supabase&theme=dark" />
 
-<div align="center">
+<br/><br/>
 
-## Contribution Streak
+## 🧰 Tools
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=UchiHoang&theme=default&hide_border=true&background=FFFFFF&ring=111111&fire=111111&currStreakLabel=111111&sideNums=555555&currStreakNum=111111&dates=777777"/>
+<img src="https://skillicons.dev/icons?i=github,git,vscode,figma,postman,vercel,render&theme=dark" />
 
 </div>
 
@@ -68,11 +57,11 @@ Currently exploring modern frontend technologies, fullstack systems, and minimal
 
 <div align="center">
 
-## Activity
+# 📊 PLAYER STATS
 
-<br/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=UchiHoang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5"/>
 
-<img src="https://raw.githubusercontent.com/UchiHoang/UchiHoang/output/github-contribution-grid-snake.svg" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=UchiHoang&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5"/>
 
 </div>
 
@@ -80,20 +69,38 @@ Currently exploring modern frontend technologies, fullstack systems, and minimal
 
 <div align="center">
 
-## Connect
+# 🔥 XP STREAK
 
-<br/>
+<img src="https://streak-stats.demolab.com?user=UchiHoang&theme=tokyonight&hide_border=true&background=1A1B27&ring=7AA2F7&fire=BB9AF7&currStreakLabel=C0CAF5"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🐍 PIXEL SNAKE
+
+<img src="https://raw.githubusercontent.com/UchiHoang/UchiHoang/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+<div align="center">
+
+# 🌐 SOCIAL PORTALS
 
 <a href="https://www.facebook.com/hoangquockhanhcute/" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-F5F5F7?style=for-the-badge&logo=facebook&logoColor=111111"/>
+<img src="https://img.shields.io/badge/Facebook-1A1B27?style=for-the-badge&logo=facebook&logoColor=7AA2F7"/>
 </a>
 
 <a href="mailto:hoangquockhanh204@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-F5F5F7?style=for-the-badge&logo=gmail&logoColor=111111"/>
+<img src="https://img.shields.io/badge/Gmail-1A1B27?style=for-the-badge&logo=gmail&logoColor=BB9AF7"/>
 </a>
 
 <a href="https://github.com/UchiHoang">
-<img src="https://img.shields.io/badge/GitHub-F5F5F7?style=for-the-badge&logo=github&logoColor=111111"/>
+<img src="https://img.shields.io/badge/GitHub-1A1B27?style=for-the-badge&logo=github&logoColor=C0CAF5"/>
 </a>
 
 </div>
@@ -102,6 +109,12 @@ Currently exploring modern frontend technologies, fullstack systems, and minimal
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=UchiHoang&label=Profile+Views&color=E5E5EA&style=for-the-badge" />
+# 👾 PROFILE VIEWS
+
+<img src="https://komarev.com/ghpvc/?username=UchiHoang&label=VISITORS&color=7aa2f7&style=for-the-badge" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1a1b27,50:24283b,100:414868"/>
 
 </div>
