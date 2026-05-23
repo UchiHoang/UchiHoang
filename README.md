@@ -13,38 +13,73 @@
 </div>
 
 ---
+
 <div align="center">
 
 # 🎮 PLAYER INFO
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-7AA2F7?style=for-the-badge"/>
 
-</div>
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="220">
+
+### 👤 Name
+Quốc Khánh
+
+</td>
+
+<td align="center" width="220">
+
+### ⚔️ Class
+Frontend Developer
+
+</td>
+
+<td align="center" width="220">
+
+### 🎨 Speciality
+UI/UX • Creative Coding
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="220">
+
+### 🚀 Level
+Fullstack Learner
+
+</td>
+
+<td align="center" width="220">
+
+### 🌏 Location
+Vietnam 🇻🇳
+
+</td>
+
+<td align="center" width="220">
+
+### 💫 Status
+Building cool things 🚀
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<div align="center">
-
-| 🎴 Profile | 🎯 Details |
-|---|---|
-| **Name** | Quốc Khánh |
-| **Class** | Frontend Developer |
-| **Speciality** | UI/UX • Creative Coding |
-| **Level** | Fullstack Learner |
-| **Location** | Vietnam 🇻🇳 |
-| **Status** | Building cool things 🚀 |
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=2500&pause=800&color=7AA2F7&center=true&vCenter=true&width=800&lines=Exploring+Modern+Frontend...;Designing+Interactive+Experiences...;Leveling+Up+Everyday+⚡" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=2500&pause=800&color=7AA2F7&center=true&vCenter=true&width=850&lines=Exploring+Modern+Frontend...;Designing+Interactive+Experiences...;Leveling+Up+Everyday+⚡" />
 
 </div>
 
 ---
+
+<div align="center">
+
 # ⚔️ SKILL INVENTORY
 
 ## 🎨 Frontend
