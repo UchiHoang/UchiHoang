@@ -1,5 +1,15 @@
 <div align="center">
 
+# 💫 About Me
+
+🌐 Passionate Frontend Developer focused on building modern, responsive, and interactive web experiences.
+
+✨ Currently exploring Fullstack Development, UI/UX Design, and creative web technologies.
+
+---
+
+### Let's build something amazing together 🚀
+
 # 👋 Hey, I'm Quốc Khánh
 
 ### Frontend Developer • Fullstack Learner • UI/UX Enthusiast
@@ -11,18 +21,6 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWQ0NzQ0cW9xMXQ4MHBzOHJiM2NhMjN0OHJ2YWlmd3U5YTRwc2NhZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif" width="100%" />
 
 </div>
-
----
-
-# 💫 About Me
-
-```javascript
-const khanh = {
-  role: "Frontend Developer",
-  learning: ["Next.js", "TypeScript", "Backend"],
-  passions: ["UI/UX", "Modern Web", "Creative Coding"],
-};
-```
 
 ---
 
