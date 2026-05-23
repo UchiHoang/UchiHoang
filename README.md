@@ -14,22 +14,16 @@
 
 ---
 
-<div align="center">
-
 # 🎮 PLAYER INFO
 
-```txt
-Name       : Quốc Khánh
-Class      : Frontend Developer
-Level      : Fullstack Learner
-Speciality : UI/UX + Creative Coding
-Location   : Vietnam 🇻🇳
-Status     : Building cool things 🚀
-```
+Passionate about crafting clean, responsive, and user-focused digital experiences.
+
+Currently exploring modern frontend technologies, fullstack systems, and minimalist UI/UX design.
 
 </div>
 
 ---
+
 
 <div align="center">
 
